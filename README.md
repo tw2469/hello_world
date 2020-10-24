@@ -12,3 +12,5 @@ change on local Git Desktop
 local change, branch=local_pc
 
 web change, branch=web_new1
+
+local change2, branch=local_pc
